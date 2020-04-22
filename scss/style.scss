@@ -5,8 +5,8 @@
 $font-primary: 'Monsterrat',Arial, sans-serif;
 
 $white: #fff;
-$black: #121212;
-$primary: #2f89fc;
+$black: #3f3c20;
+$primary: #DAB7C7;
 
 html {
 	// overflow-x: hidden;
@@ -414,7 +414,7 @@ textarea.form-control {
 }
 .ftco-section {
 	.ftco-sub-title {
-		font-size: 16px;
+		font-size: 15px;
 		text-transform: uppercase;
 		letter-spacing: .5em;
 		color: lighten(#ccc, 3%);
