@@ -9989,8 +9989,8 @@ textarea.form-control {
 }
 
 .ftco-counter .text strong.number {
-  font-weight: 400;
-  font-size: 180px;
+  font-weight: bold;
+  font-size: 100px;
   color: #DAB7C7;
 }
 
